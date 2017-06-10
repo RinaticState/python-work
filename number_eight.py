@@ -1,0 +1,5 @@
+print(4 + 2 + 2)
+print(100 - 92)
+print(4 * 2)
+print(64 / 8)
+print(2**3)

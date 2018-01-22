@@ -1,0 +1,4 @@
+In Python you can use a for loop to go through a list
+In Python you can store user data using json modules
+In Python you can use classes and functions from other people's codes and libraries
+In Python you can open files and do analytical work with the files
